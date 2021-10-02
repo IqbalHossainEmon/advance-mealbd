@@ -1,0 +1,26 @@
+.meal img {
+	width: 300px;
+}
+.meal {
+	height: 35rem;
+	margin: 20px;
+}
+.inst {
+	overflow: hidden;
+	height: 172px;
+}
+.btn {
+	background-color: coral;
+	color: white;
+	padding: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: none;
+	border-radius: 10px;
+}
+.btn:hover {
+	background-color: violet;
+}
+.btn:active {
+	background-color: lightcoral;
+}
